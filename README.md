@@ -5,7 +5,7 @@ Based in Argentina 🇦🇷 | Currently expanding my horizons in the US 🇺🇸
 
 I am a passionate software developer transitioning from academic projects to professional solutions. I love combining **Backend logic (Java/Python)** with modern **Frontend interfaces (React)**.
 
-- 🔭 I’m currently working on a **World Cup 2026 Tracker** using React & APIs.
+- 🔭 I’m currently working on a **StickerSwap** using React & APIs.
 - 🧠 I recently built an **AI Lego Classifier** with TensorFlow & Computer Vision.
 - 💼 Open to **Remote Junior Developer** roles.
 
