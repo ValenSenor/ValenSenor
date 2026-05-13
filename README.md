@@ -1,7 +1,7 @@
 ### Hi there! I'm Valentin Senorans 👋
-**Computer Engineering Student | Full Stack & AI Developer**
+**Computer Engineering Student**
 
-Based in Argentina 🇦🇷 | Currently expanding my horizons in the US 🇺🇸
+Based in Argentina 🇦🇷
 
 I am a passionate software developer transitioning from academic projects to professional solutions. I love combining **Backend logic (Java/Python)** with modern **Frontend interfaces (React)**.
 
