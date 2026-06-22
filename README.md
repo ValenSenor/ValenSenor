@@ -1,13 +1,15 @@
-### Hi there! I'm Valentin Senorans 👋
-**Computer Engineering Student**
+# Hi there! I'm Valentin Senorans 👋
 
-Based in Argentina 🇦🇷
+### Advanced Computer Engineering Student
 
-I am a passionate software developer transitioning from academic projects to professional solutions. I love combining **Backend logic (Java/Python)** with modern **Frontend interfaces (React)**.
+📍 Based in Mar del Plata, Argentina 🇦🇷  
+💼 Fluent English (Conversational)
 
-- 🔭 I’m currently working on a **StickerSwap** using React & APIs.
-- 🧠 I recently built an **AI Lego Classifier** with TensorFlow & Computer Vision.
-- 💼 Open to **Remote Junior Developer** roles.
+I am an advanced Computer Engineering student transitioning from academic projects to production-ready software solutions. I specialize in building cross-platform products using modern frontend frameworks and scalable backend infrastructures.
+
+* 📱 **Currently building:** [StickerSwap-Portfolio](https://github.com/ValenSenor/StickerSwap-Portfolio) — A matchmaking mobile application using **React Native** and **Supabase**.
+* 🧠 **AI & Research:** Developed a Lego Franchise Image Classifier using **TensorFlow** & Computer Vision.
+* 🚀 **Goal:** Looking for a Remote Software Developer role where I can deliver high-quality code.
 
 ---
 
